@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcusVinicius-data
-- 👀 estou interessado em migrar para area de ciencia de dados , hoje trabalho com telemarketing.
+- 👀 estou interessado em migrar para area de engenharia de sofware .
 - 🌱 eu estudo ciencia de dados na Udemy liguagem e python, cursando faculdade de analise e desenvolvimento de sistemas 
 - 💞️ Procuro colaborar muito com a plataforma , trazendo oque aprender na eraa de dados, procuro aprender muito!!.
 - 📫 pode me encontrar no  https://www.linkedin.com/in/marcus-vinicius-pereira-de-moraes-6a2125225/ 
